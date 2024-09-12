@@ -14,6 +14,6 @@ NumPy: A popular Python library used for numerical computations.
 # 
 
 The house-picking bot reads data from a Housing.csv file, analyzes the data, and makes decisions to choose the ideal house. It presents the results to the user.
-
+# 
 
 Another bot acts like a dermatologist, diagnosing illnesses based on symptoms provided by patients.
