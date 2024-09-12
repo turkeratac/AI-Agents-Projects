@@ -1,4 +1,4 @@
-Project: AI Bot Agents in Python
+AI Bot Agents in Python
 
 AI bot agents were programmed in Python for this project.
 Technologies used: LLaMA, CrewAI, Groq, and NumPy.
